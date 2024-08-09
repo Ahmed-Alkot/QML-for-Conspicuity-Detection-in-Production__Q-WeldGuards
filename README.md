@@ -44,14 +44,16 @@ Team Member 2:
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
-You can find my solution of each task in its respective folder, where you will find Jupyter notebooks containing the solution. 
-All tasks 1-3 have been implemented Succefully.
-For task 4, a simple Quantum Neural Network (variational circuit) was implemented to learn the sine fucntion on the specified interval. Please refer to the task's notebook for more information on encoding strategy and the chosen ansatz.
+
+You can find my solution of each task in its respective folder, where you will find Jupyter notebooks containing the solutions. 
+
+All tasks 1-3 have been implemented successfully.
+
+For task 4, a simple Quantum Neural Network (variational circuit) was implemented to learn the sine fucntion on the specified interval. Please refer to the task's notebook for more information on encoding strategy and the chosen ansatz. The model learned the sine function to a very high accuracy in a very short time.
+
 For task 5, My Idea was to use the Quanvolutional cirquit from Task 3 and convert it into a Keras Layer such that it can become optimizable just like a classical filter. However, due to time constraints, technical difficulties in the Pennylane-Keras interface and the fact that I am participating solo, I could not finish My implementation for this task. 
 
 ### Project Presentation Deck: 
-_Upload/ Link a 3min. presentation deck here._
 [Project Presentation](Project_Presentation.pdf)
 
 
