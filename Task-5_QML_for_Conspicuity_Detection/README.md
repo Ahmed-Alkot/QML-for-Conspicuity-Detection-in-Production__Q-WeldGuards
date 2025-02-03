@@ -1,0 +1,1 @@
+You can download the dataset from here https://www.kaggle.com/datasets/danielbacioiu/tig-aluminium-5083?resource=download and must store the "al5083" folder in the "Task-5_QML_for_Conspicuity_Detection" folder.
