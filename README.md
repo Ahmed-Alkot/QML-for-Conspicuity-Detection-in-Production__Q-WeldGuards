@@ -33,8 +33,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Ahmed Mohamed Hassan Aboukouta
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-j6iFNTX5DbDjAc5
 
 
 Team Member 2:
@@ -44,10 +44,16 @@ Team Member 2:
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
-### Project Presentation Deck:
-_Upload/ Link a 3min. presentation deck here._
+You can find my solution of each task in its respective folder, where you will find Jupyter notebooks containing the solutions. 
 
-See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
+All tasks 1-3 have been implemented successfully.
+
+For task 4, a simple Quantum Neural Network (variational circuit) was implemented to learn the sine fucntion on the specified interval. Please refer to the task's notebook for more information on encoding strategy and the chosen ansatz. The model learned the sine function to a very high accuracy in a very short time.
+
+For task 5, My Idea was to use the Quanvolutional cirquit from Task 3 and convert it into a Keras Layer such that it can become optimizable just like a classical filter. However, due to time constraints, technical difficulties in the Pennylane-Keras interface and the fact that I am participating solo, I could not finish My implementation for this task. 
+
+### Project Presentation Deck: 
+[Project Presentation](Project_Presentation.pdf)
+
 
